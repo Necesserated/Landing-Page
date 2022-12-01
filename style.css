@@ -19,6 +19,7 @@ html {
 body {
     font-size: 1.6rem;
     width: 100%;
+    font-family: Roboto, sans-serif;
 }
 
 a {
@@ -136,7 +137,7 @@ a {
     background: #E5E7EB;
     font-size: 3.6rem;
     font-style: italic;
-    font-weight: 100;
+    font-weight: thin;
     color: #1F2937;
     width: 100%;
 }
